@@ -53,7 +53,7 @@
   width: 289px;
   height: 48px;
   color: #ffffff;
-  background-image: linear-gradient(to right, #0278fe, #003a7b);
+  background: linear-gradient(to right, #0278fe, #003a7b);
   font-size: 18px;
   font-weight: 600;
   display: inline-flex;
@@ -65,7 +65,7 @@
 }
 
 .places__NFT-button:hover {
-  background-image: linear-gradient(to right, #0278fe 0%, #003a7b 0% 100%);
+  background: linear-gradient(to right, #0278fe 0%, #003a7b 0% 100%);
 }
 
 .places__paragraphs-container {
